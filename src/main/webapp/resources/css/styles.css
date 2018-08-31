@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-family:Segoe UI, Arial;
+}
+
+div.wrap{
+	width:920px;
+	height:auto;
+	margin:20px auto;
+	display:block;
+}
+
+div.spring{
+	display:block;
+	margin:20px 0px;
+}
+
+h2{
+	margin-bottom:20px;
+}
+
+hr{
+	margin:10px 0px;
+}
